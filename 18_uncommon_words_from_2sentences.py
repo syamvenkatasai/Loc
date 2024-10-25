@@ -4,8 +4,6 @@ s1=s1.split()
 s2=s2.split()
 print(s1)
 print(s2)
-#s1+=s2
-#print(s1)
 s3=[]
 for i in s1:
 	for j in s2:
